@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #e0f7fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather-container {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background: #00796b;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
