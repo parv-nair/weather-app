@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY"; // Get it from https://openweathermap.org/api
+const apiKey = "0ffd9fed27c6941337b91567637e88cd"; // Get it from https://openweathermap.org/api
 
 function getWeather() {
   const city = document.getElementById("cityInput").value;
